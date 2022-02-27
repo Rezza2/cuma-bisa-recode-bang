@@ -16,10 +16,10 @@ gc1 = 'https://chat.whatsapp.com/GzCgOUjXgU6HtzrBiOy5YV'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/GzCgOUjXgU6HtzrBiOy5YV', ''] // ganti jadi group lu
-global.owner = ['6285335724751','6289666830201','6289523312999'] // Put your number here //owner eval
-global.kontak = ['6285335724751','6289666830201'] //Ketika ada yang ngetik #owner
-global.mods = ['6285335724751','60147751029'] // Want some help?
-global.prems = ['6285335724751','6289666830201','6289523312999','60147751029'] // Premium user has unlimited limit
+global.owner = ['6285335724751','6289666830201','6289523312999','6281260759513'] // Put your number here //owner eval
+global.kontak = ['6285335724751','6289666830201','6281260759513'] //Ketika ada yang ngetik #owner
+global.mods = ['6285335724751','60147751029''6281260759513'] // Want some help?
+global.prems = ['6285335724751','6289666830201','6289523312999','60147751029','6281260759513'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -60,6 +60,8 @@ kasihcaption = `[]❕[] Done`
 namakontak1 = 'mcx-Chan'
 namakontak2 = 'mcx'
 namakontak3 = 'Pojan AJG'
+namakontak4 = 'Rezza'
+
 
 //kasihcaption = `[]❕[] Done`
 
